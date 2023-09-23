@@ -1,0 +1,58 @@
+
+.head{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    justify-content:flex-start;
+    background-color: black;
+    padding-left: 2%;
+    padding-right: 4%;
+}
+.text{
+    /* background-color: aqua; */
+    color: aliceblue;
+
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 1%;
+}
+.comp{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.pes{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.robo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.edit{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10%;
+}
+.all{
+    background-color: #088fb5;
+}
+.end{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    justify-content: space-around;
+    background-color: rgb(34, 32, 32);
+    margin-top: auto;
+    padding-top: 3%;
+}
+a{
+    color: white;
+}
+u{
+    color: white;
+}
