@@ -1,0 +1,20 @@
+.end{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    justify-content: space-around;
+    background-color: rgb(34, 32, 32);
+    margin-top: auto;
+    padding-top: 3%;
+}
+a{
+    color: white;
+}
+u{
+    color: white;
+}
+.all{
+    background-color: #088fb5;
+    margin: 0.5%;
+}
+
